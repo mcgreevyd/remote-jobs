@@ -178,6 +178,7 @@ Soostone | http://www.soostone.com/ |
 [Spoqa](/company-profiles/spoqa.md) | http://www.spoqa.com/ | South Korea and Japan
 Sqwiggle | https://www.sqwiggle.com/ |
 StackExchange | http://stackexchange.com/ |
+Sticker Mule | https://www.stickermule.com |
 Stitch Fix  | https://www.stitchfix.com |
 Stripe | https://stripe.com/ |
 Strongloop | https://strongloop.com/ |
